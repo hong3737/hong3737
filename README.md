@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hong3737)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **hong3737/hong3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
