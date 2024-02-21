@@ -7,7 +7,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qwert3748})](https://solved.ac/{qwert3748})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwert3748)](https://solved.ac/qwert3748)
 
 **🐱 My GitHub Data** 
 
