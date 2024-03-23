@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Java                     2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hong3737/hong3737/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2024 18:35:32 UTC
+ Last Updated on 23/03/2024 18:35:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **hong3737/hong3737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
